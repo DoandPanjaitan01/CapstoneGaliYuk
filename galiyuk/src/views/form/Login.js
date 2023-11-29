@@ -62,6 +62,17 @@ const Login = ({ setIsLoggedIn }) => {
 
   return (
     <Card>
+      {/* <img src="../../assets/img/logo-galiyuk.jpeg" 
+      alt="GaliYuk"
+      className="logo"
+      /> */}
+      <div className="logo_container">
+        <img
+          src="../../assets/img/logo-galiyuk.jpeg"
+          alt="GaliYuk"
+          className="logo"
+        />
+      </div>
       <h1 className="title">Sign In</h1>
       <p className="subtitle">
         Please log in using your username and password!
