@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.11.2",
+    "https": "^1.0.0"
+  },
+  "name": "vanilla-js-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
