@@ -31,7 +31,7 @@ class Sign_in extends HTMLElement {
 
         <!-- Submit button -->
         <a
-          href="../../index.html"
+          href="../../../index.html"
           type="submit"
           style="background-color: #ffffff; font-weight: bold"
           class="btn border border-dark btn-block mb-4 col-5 mx-auto"

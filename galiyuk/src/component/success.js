@@ -32,7 +32,7 @@ class Success extends HTMLElement {
             type="submit"
             style="background-color: #ffffff; font-weight: bold"
             class="btn border border-dark btn-block mb-4 col-5 mx-auto"
-            href="../../index.html"
+            href="../../../index.html"
           >
             Masuk
           </a>

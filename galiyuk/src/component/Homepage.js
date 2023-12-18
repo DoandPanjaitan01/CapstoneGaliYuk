@@ -18,7 +18,7 @@ class Homepage extends HTMLElement {
   render() {
     this.innerHTML = `
     <div id="app">
-    <n-header image="./src/assets/image/logo2.png" link1="#landing" link2="#layanan" link3="#mitra" link4="./src/view/template.html?tentang" btn1="./src/view/template.html?daftar" btn2="./src/view/template.html?login"></n-header>
+    <n-header image="./galiyuk/src/assets/image/logo2.png" link1="#landing" link2="#layanan" link3="#mitra" link4="./galiyuk/src/view/template.html?tentang" btn1="./galiyuk/src/view/template.html?daftar" btn2="./galiyuk/src/view/template.html?login"></n-header>
     <div class="landing-page mb-5" id="landing">
       <div class="row pl-5 d-flex">
         <div class="col-6 align-self-center">
@@ -29,7 +29,7 @@ class Homepage extends HTMLElement {
             satu </h4> <h4> lingkungan yang harmoni.
           </h4></h4>
         </div>
-        <img src="./src/assets/image/landing.png" alt="" width="45%" />
+        <img src="./galiyuk/src/assets/image/landing.png" alt="" width="45%" />
       </div>
     </div>
     <div class="p-5">
@@ -72,14 +72,14 @@ class Homepage extends HTMLElement {
               id="m-card"
               title="Legalitas Lengkap & Resmi"
               content="Lorem Ipsum is the printing and typesetting industry. Lorem Ipsum has been the"
-              image="./src/assets/image/1.png"
+              image="./galiyuk/src/assets/image/1.png"
               class="col-6"
             ></m-card>
             <m-card
               id="m-card"
               title="Tersedia Kontrak Kerja"
               content="Lorem Ipsum is the printing and typesetting industry. Lorem Ipsum has been the"
-              image="./src/assets/image/2.png"
+              image="./galiyuk/src/assets/image/2.png"
               class="col-6"
             ></m-card>
           </div>
@@ -88,14 +88,14 @@ class Homepage extends HTMLElement {
               id="m-card"
               title="Tim Ahli Berpengalaman"
               content="Lorem Ipsum is the printing and typesetting industry. Lorem Ipsum has been the"
-              image="./src/assets/image/3.png"
+              image="./galiyuk/src/assets/image/3.png"
               class="col-6"
             ></m-card>
             <m-card
               id="m-card"
               title="Manajemen Pekerjaan Terbaik"
               content="Lorem Ipsum is the printing and typesetting industry. Lorem Ipsum has been the"
-              image="./src/assets/image/4.png"
+              image="./galiyuk/src/assets/image/4.png"
               class="col-6"
             ></m-card>
           </div>
